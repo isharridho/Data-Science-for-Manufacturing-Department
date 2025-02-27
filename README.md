@@ -1,11 +1,6 @@
-Artificial Intelligence and Machine Learning are transforming the manufacturing industry. According to the report released by World Economic Forum, these technologies will play significant roles in the fourth industrial revolution. Major areas which can be benefited from this are:
-Maintenance Department
-Production Department
-Supply Chain Department
-
-Deep learning has been proven to be superior in detecting and localizing defects using imagery data which could significantly improve the production efficiency in the manufacturing industry.
-Great Example from LandingAI: https://landing.ai/defect-detection/
-
-
-
-![image](https://github.com/user-attachments/assets/ca6c9a5d-8b63-4b96-9dbb-261940247c15)
+In this case study, we will assume that you work as an AI/ML consultant. 
+You have been hired by a steel manufacturing company in San Diego and you have been tasked to automate the process of detecting and localizing defects found in Steel manufacturing.
+Detecting defects would help in improving the quality of manufacturing as well as in reducing the waste due to production defects.
+The team has collected images of steel surfaces and have approached you to develop a model that could detect and localize defects in real-time. 
+You have been provided with 12600 images that contain 4 types of defects, along with their location in the steel surface.
+![image](https://github.com/user-attachments/assets/8d523ade-d5d4-4aaf-8d22-8782beed7a67)
